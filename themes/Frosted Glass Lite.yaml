@@ -1226,5 +1226,6 @@ Frosted Glass Lite:
       paper-slider-height: '5px'
       border-radius: '18px'
 
-
+      #Personalizadas Anluku
+      ha-view-sections-row-gap: '10px'
       # --- End of Theme ---
